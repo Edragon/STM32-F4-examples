@@ -1,0 +1,14 @@
+..\Output\stm32f4xx_gpio.o: ..\FWLib\src\stm32f4xx_gpio.c
+..\Output\stm32f4xx_gpio.o: ..\FWLib\inc\stm32f4xx_gpio.h
+..\Output\stm32f4xx_gpio.o: ..\CMSIS\STM32F4xx\Include\stm32f4xx.h
+..\Output\stm32f4xx_gpio.o: ..\CMSIS\Include\core_cm4.h
+..\Output\stm32f4xx_gpio.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\Output\stm32f4xx_gpio.o: ..\CMSIS\Include\core_cmInstr.h
+..\Output\stm32f4xx_gpio.o: ..\CMSIS\Include\core_cmFunc.h
+..\Output\stm32f4xx_gpio.o: ..\CMSIS\Include\core_cm4_simd.h
+..\Output\stm32f4xx_gpio.o: ..\CMSIS\STM32F4xx\Include\system_stm32f4xx.h
+..\Output\stm32f4xx_gpio.o: ..\User\stm32f4xx_conf.h
+..\Output\stm32f4xx_gpio.o: ..\FWLib\inc\stm32f4xx_gpio.h
+..\Output\stm32f4xx_gpio.o: ..\FWLib\inc\stm32f4xx_rcc.h
+..\Output\stm32f4xx_gpio.o: ..\CMSIS\STM32F4xx\Include\stm32f4xx.h
+..\Output\stm32f4xx_gpio.o: ..\FWLib\inc\misc.h

@@ -1,0 +1,26 @@
+*** Creating Trace Output File '..\Output\DEMO.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\output\startup_stm32f4xx.o"'
+### List of Objects: adding '"..\output\system_stm32f4xx.o"'
+### List of Objects: adding '"..\output\misc.o"'
+### List of Objects: adding '"..\output\stm32f4xx_gpio.o"'
+### List of Objects: adding '"..\output\stm32f4xx_rcc.o"'
+### List of Objects: adding '"..\output\main.o"'
+### List of Objects: adding '"..\output\stm32f4xx_it.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4.fp "..\output\startup_stm32f4xx.o" "..\output\system_stm32f4xx.o" "..\output\misc.o" "..\output\stm32f4xx_gpio.o" "..\output\stm32f4xx_rcc.o" "..\output\main.o" "..\output\stm32f4xx_it.o" 
+--strict --scatter "..\Output\DEMO.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\Listing\DEMO.map" -o ..\Output\DEMO.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\Output\DEMO.axf'
+### ADS-LD Command File: '..\Output\DEMO.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\Output\DEMO.lnp', Handle=0x00000288
+### Writing '.lnp' file
+### ADS-LD Command file '..\Output\DEMO.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

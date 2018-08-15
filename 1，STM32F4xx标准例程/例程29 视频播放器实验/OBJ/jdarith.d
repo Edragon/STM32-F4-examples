@@ -1,0 +1,11 @@
+..\obj\jdarith.o: ..\MJPEG\JPEG\jdarith.c
+..\obj\jdarith.o: ..\MJPEG\JPEG\jinclude.h
+..\obj\jdarith.o: ..\MJPEG\JPEG\jconfig.h
+..\obj\jdarith.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+..\obj\jdarith.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\jdarith.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\jdarith.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\obj\jdarith.o: ..\MJPEG\JPEG\jpeglib.h
+..\obj\jdarith.o: ..\MJPEG\JPEG\jmorecfg.h
+..\obj\jdarith.o: ..\MJPEG\JPEG\jpegint.h
+..\obj\jdarith.o: ..\MJPEG\JPEG\jerror.h

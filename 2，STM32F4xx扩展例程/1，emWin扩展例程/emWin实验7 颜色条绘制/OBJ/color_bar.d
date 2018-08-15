@@ -1,0 +1,9 @@
+..\obj\color_bar.o: ..\EMWIN_DEMO\COLOR_BAR\color_bar.c
+..\obj\color_bar.o: ..\EMWIN_DEMO\COLOR_BAR\color_bar.h
+..\obj\color_bar.o: ..\EMWIN\STemWinLibrary522\inc\GUI.h
+..\obj\color_bar.o: ..\EMWIN\STemWinLibrary522\inc\GUI_ConfDefaults.h
+..\obj\color_bar.o: ..\EMWIN\STemWinLibrary522\Config\GUIConf.h
+..\obj\color_bar.o: ..\EMWIN\STemWinLibrary522\inc\GUI_Type.h
+..\obj\color_bar.o: ..\EMWIN\STemWinLibrary522\inc\LCD.h
+..\obj\color_bar.o: ..\EMWIN\STemWinLibrary522\inc\Global.h
+..\obj\color_bar.o: ..\EMWIN\STemWinLibrary522\inc\GUI_Version.h

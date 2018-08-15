@@ -1,0 +1,12 @@
+..\obj\jidctfst.o: ..\MJPEG\JPEG\jidctfst.c
+..\obj\jidctfst.o: ..\MJPEG\JPEG\jinclude.h
+..\obj\jidctfst.o: ..\MJPEG\JPEG\jconfig.h
+..\obj\jidctfst.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+..\obj\jidctfst.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\jidctfst.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\jidctfst.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\obj\jidctfst.o: ..\MJPEG\JPEG\jpeglib.h
+..\obj\jidctfst.o: ..\MJPEG\JPEG\jmorecfg.h
+..\obj\jidctfst.o: ..\MJPEG\JPEG\jpegint.h
+..\obj\jidctfst.o: ..\MJPEG\JPEG\jerror.h
+..\obj\jidctfst.o: ..\MJPEG\JPEG\jdct.h

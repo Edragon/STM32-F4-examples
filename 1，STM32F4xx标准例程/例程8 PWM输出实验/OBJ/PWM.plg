@@ -1,0 +1,20 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Ping\Desktop\STM32F407VET6资料\2，标准例程-库函数版本\实验9 PWM输出实验\USER\PWM.uvproj
+Project File Date:  08/31/2015
+
+<h2>Output:</h2>
+Build target 'PWM'
+compiling pwm.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+linking...
+Program Size: Code=8588 RO-data=424 RW-data=48 ZI-data=1832  
+FromELF: creating hex file...
+"..\OBJ\PWM.axf" - 0 Errors, 1 Warning(s).
+Load "..\\OBJ\\PWM.axf" 
+Erase Done.
+Programming Done.
+Verify OK.

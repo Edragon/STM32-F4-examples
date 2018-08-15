@@ -1,0 +1,12 @@
+..\obj\wrppm.o: ..\MJPEG\JPEG\wrppm.c
+..\obj\wrppm.o: ..\MJPEG\JPEG\cdjpeg.h
+..\obj\wrppm.o: ..\MJPEG\JPEG\jinclude.h
+..\obj\wrppm.o: ..\MJPEG\JPEG\jconfig.h
+..\obj\wrppm.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+..\obj\wrppm.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\wrppm.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\wrppm.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\obj\wrppm.o: ..\MJPEG\JPEG\jpeglib.h
+..\obj\wrppm.o: ..\MJPEG\JPEG\jmorecfg.h
+..\obj\wrppm.o: ..\MJPEG\JPEG\jerror.h
+..\obj\wrppm.o: ..\MJPEG\JPEG\cderror.h

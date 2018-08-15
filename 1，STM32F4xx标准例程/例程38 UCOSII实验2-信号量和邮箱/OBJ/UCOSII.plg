@@ -1,0 +1,13 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Ping\Desktop\STM32F407VET6资料\MCUDEV_F4XX标准例程-库函数版本\实验57 UCOSII实验2-信号量和邮箱\USER\UCOSII-2.uvproj
+Project File Date:  09/06/2015
+
+<h2>Output:</h2>
+Load "..\\OBJ\\UCOSII.axf" 
+Erase Done.
+Programming Done.
+Verify OK.

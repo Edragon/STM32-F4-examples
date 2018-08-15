@@ -1,0 +1,11 @@
+..\obj\jdcoefct.o: ..\MJPEG\JPEG\jdcoefct.c
+..\obj\jdcoefct.o: ..\MJPEG\JPEG\jinclude.h
+..\obj\jdcoefct.o: ..\MJPEG\JPEG\jconfig.h
+..\obj\jdcoefct.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+..\obj\jdcoefct.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\jdcoefct.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\jdcoefct.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\obj\jdcoefct.o: ..\MJPEG\JPEG\jpeglib.h
+..\obj\jdcoefct.o: ..\MJPEG\JPEG\jmorecfg.h
+..\obj\jdcoefct.o: ..\MJPEG\JPEG\jpegint.h
+..\obj\jdcoefct.o: ..\MJPEG\JPEG\jerror.h

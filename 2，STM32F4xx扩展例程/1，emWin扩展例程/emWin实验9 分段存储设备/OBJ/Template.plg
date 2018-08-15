@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\完成设计的产品\(MCUDEV)-STM32开发板系列\(MCUDEV)STM32_F4VE\STM32F407VET6资料\STM32F407VET6最小系统板--资料\2，STM32F4xx扩展例程\1，emWin扩展例程\emWin实验9 分段存储设备\USER\Template.uvproj
+Project File Date:  09/08/2015
+
+<h2>Output:</h2>
+Build target 'Template'
+linking...
+Program Size: Code=106206 RO-data=20834 RW-data=968 ZI-data=1043304  
+FromELF: creating hex file...
+"..\OBJ\Template.axf" - 0 Errors, 0 Warning(s).

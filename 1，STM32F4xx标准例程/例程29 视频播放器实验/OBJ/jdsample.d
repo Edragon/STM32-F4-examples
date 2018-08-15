@@ -1,0 +1,11 @@
+..\obj\jdsample.o: ..\MJPEG\JPEG\jdsample.c
+..\obj\jdsample.o: ..\MJPEG\JPEG\jinclude.h
+..\obj\jdsample.o: ..\MJPEG\JPEG\jconfig.h
+..\obj\jdsample.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+..\obj\jdsample.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\jdsample.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\jdsample.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\obj\jdsample.o: ..\MJPEG\JPEG\jpeglib.h
+..\obj\jdsample.o: ..\MJPEG\JPEG\jmorecfg.h
+..\obj\jdsample.o: ..\MJPEG\JPEG\jpegint.h
+..\obj\jdsample.o: ..\MJPEG\JPEG\jerror.h

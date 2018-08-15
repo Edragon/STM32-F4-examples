@@ -1,0 +1,13 @@
+..\Output\system_stm32f4xx.o: ..\CMSIS\STM32F4xx\Source\system_stm32f4xx.c
+..\Output\system_stm32f4xx.o: ..\CMSIS\STM32F4xx\Include\stm32f4xx.h
+..\Output\system_stm32f4xx.o: ..\CMSIS\Include\core_cm4.h
+..\Output\system_stm32f4xx.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\Output\system_stm32f4xx.o: ..\CMSIS\Include\core_cmInstr.h
+..\Output\system_stm32f4xx.o: ..\CMSIS\Include\core_cmFunc.h
+..\Output\system_stm32f4xx.o: ..\CMSIS\Include\core_cm4_simd.h
+..\Output\system_stm32f4xx.o: ..\CMSIS\STM32F4xx\Include\system_stm32f4xx.h
+..\Output\system_stm32f4xx.o: ..\User\stm32f4xx_conf.h
+..\Output\system_stm32f4xx.o: ..\FWLib\inc\stm32f4xx_gpio.h
+..\Output\system_stm32f4xx.o: ..\CMSIS\STM32F4xx\Include\stm32f4xx.h
+..\Output\system_stm32f4xx.o: ..\FWLib\inc\stm32f4xx_rcc.h
+..\Output\system_stm32f4xx.o: ..\FWLib\inc\misc.h

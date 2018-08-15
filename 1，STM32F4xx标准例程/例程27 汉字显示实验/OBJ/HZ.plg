@@ -1,0 +1,13 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Ping\Desktop\STM32F407VET6资料\MCUDEV_F4XX标准例程-库函数版本\实验40 汉字显示实验\USER\HZ.uvproj
+Project File Date:  09/02/2015
+
+<h2>Output:</h2>
+Load "..\\OBJ\\HZ.axf" 
+Erase Done.
+Programming Done.
+Verify OK.

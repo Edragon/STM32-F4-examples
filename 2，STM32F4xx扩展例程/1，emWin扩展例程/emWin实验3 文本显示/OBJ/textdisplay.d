@@ -1,0 +1,9 @@
+..\obj\textdisplay.o: ..\EMWIN_DEMO\TEXT_DISPLAY\textdisplay.c
+..\obj\textdisplay.o: ..\EMWIN_DEMO\TEXT_DISPLAY\textdisplay.h
+..\obj\textdisplay.o: ..\EMWIN\STemWinLibrary522\inc\GUI.h
+..\obj\textdisplay.o: ..\EMWIN\STemWinLibrary522\inc\GUI_ConfDefaults.h
+..\obj\textdisplay.o: ..\EMWIN\STemWinLibrary522\Config\GUIConf.h
+..\obj\textdisplay.o: ..\EMWIN\STemWinLibrary522\inc\GUI_Type.h
+..\obj\textdisplay.o: ..\EMWIN\STemWinLibrary522\inc\LCD.h
+..\obj\textdisplay.o: ..\EMWIN\STemWinLibrary522\inc\Global.h
+..\obj\textdisplay.o: ..\EMWIN\STemWinLibrary522\inc\GUI_Version.h

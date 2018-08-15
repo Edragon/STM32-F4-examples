@@ -1,0 +1,11 @@
+..\obj\jdapimin.o: ..\MJPEG\JPEG\jdapimin.c
+..\obj\jdapimin.o: ..\MJPEG\JPEG\jinclude.h
+..\obj\jdapimin.o: ..\MJPEG\JPEG\jconfig.h
+..\obj\jdapimin.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+..\obj\jdapimin.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\jdapimin.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\jdapimin.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\obj\jdapimin.o: ..\MJPEG\JPEG\jpeglib.h
+..\obj\jdapimin.o: ..\MJPEG\JPEG\jmorecfg.h
+..\obj\jdapimin.o: ..\MJPEG\JPEG\jpegint.h
+..\obj\jdapimin.o: ..\MJPEG\JPEG\jerror.h

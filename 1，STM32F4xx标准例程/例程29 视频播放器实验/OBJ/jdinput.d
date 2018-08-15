@@ -1,0 +1,11 @@
+..\obj\jdinput.o: ..\MJPEG\JPEG\jdinput.c
+..\obj\jdinput.o: ..\MJPEG\JPEG\jinclude.h
+..\obj\jdinput.o: ..\MJPEG\JPEG\jconfig.h
+..\obj\jdinput.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+..\obj\jdinput.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+..\obj\jdinput.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\jdinput.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\obj\jdinput.o: ..\MJPEG\JPEG\jpeglib.h
+..\obj\jdinput.o: ..\MJPEG\JPEG\jmorecfg.h
+..\obj\jdinput.o: ..\MJPEG\JPEG\jpegint.h
+..\obj\jdinput.o: ..\MJPEG\JPEG\jerror.h
